@@ -5,7 +5,9 @@
 -javaScript
 -react
 -Node.js
-### ¿cómo aprendo desarrollo web?
+
+### ¿En donde estudio desarrollo web ?
+
 Aprendo de forma autodidacta, apoyándome en canales de YouTube, pero también leyendo la documentación de los lenguajes para poder entenderlos mucho mejor y comprender conceptos que en videos de YouTube no se explican claramente.
 
 Páginas web:
