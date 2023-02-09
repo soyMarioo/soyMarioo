@@ -6,7 +6,7 @@
 -react
 -Node.js
 ### ¿cómo aprendí desarrollo web?
-Aprendí de forma autodidacta, apoyándome en canales de YouTube, pero también leyendo la documentación de los lenguajes para poder entenderlos mucho mejor y comprender conceptos que en videos de YouTube no se explican claramente o que se explican mal.
+Aprendo de forma autodidacta, apoyándome en canales de YouTube, pero también leyendo la documentación de los lenguajes para poder entenderlos mucho mejor y comprender conceptos que en videos de YouTube no se explican claramente.
 
 Páginas web:
 
@@ -25,7 +25,11 @@ Canales de YouTube:
 [Soy Dalto](https://www.youtube.com/@soydalto)
 [HolaMundo](https://www.youtube.com/@HolaMundoDev)
 [Programador X](https://www.youtube.com/@ProgramadorX)
-[FreeCodeCamp](https://www.youtube.com/@freecodecampespanol)
+[Dorian Desings](https://www.youtube.com/@DorianDesings/featured)
+[Kiko Palomares](https://www.youtube.com/@kikopalomares)
+[MagtimusPro](https://www.youtube.com/@MagtimusPro)
+
+
 
 
 
