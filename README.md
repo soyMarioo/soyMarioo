@@ -1,10 +1,10 @@
 ## Mis habilidades:
 
--HTML
--CSS
--JAVASCRIPT
--REACT
-
+-html
+-css
+-javaScript
+-react
+-Node.js
 ### ¿cómo aprendí desarrollo web?
 Aprendí de forma autodidacta, apoyándome en canales de YouTube, pero también leyendo la documentación de los lenguajes para poder entenderlos mucho mejor y comprender conceptos que en videos de YouTube no se explican claramente o que se explican mal.
 
